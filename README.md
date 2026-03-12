@@ -1,7 +1,7 @@
 <h2>👋 Hey, I'm Baran Ejder!</h2>
 <ul>
   <li>📍 I'm 18, currently living in Istanbul, Türkiye.</li>
-  <li>🕒 I'm learning Python and exploring AI, machine learning, and app development.</li>
+  <li>🕒 I'm working as a web developer and exploring AI, machine learning, and app development.</li>
   <li>💻 I enjoy creating small projects and experimenting with software in my free time. Currently, I'm working on AI and software development projects, focusing on practical, real-world applications. Interested in SAAS and app ideas.</li>
 </ul>
 <hr>
