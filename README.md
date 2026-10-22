@@ -1,13 +1,23 @@
-<h2>👋 Hey, I'm Baran Ejder!</h2>
-<ul>
-  <li>📍 I'm 18, currently living in Istanbul, Türkiye.</li>
-  <li>🕒 I'm working as a web developer and exploring AI, machine learning, and app development.</li>
-  <li>💻 I enjoy creating small projects and experimenting with software in my free time. Currently, I'm working on AI and software development projects, focusing on practical, real-world applications. Interested in SAAS and app ideas.</li>
-</ul>
-<hr>
-<p>
-  <img height="20px" src="https://img.shields.io/badge/ejderrx@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></img>
-  <img src="https://komarev.com/ghpvc/?username=baranejder&color=grey&style=flat-square"></img>
-</p>
+# Baran Ejder
+
+Software developer and founder of **Zirve Kodlama**. Focused on building practical B2B software, computer vision tools, and modern web applications.
+
+---
+
+### 🛠️ What I'm Working On
+
+- **Physical AI & Vision:** Computer vision and real-time tracking modules for real-world operations (Zirve Vale PRO).
+- **Web & SaaS Applications:** Modern, fast, and scalable web solutions using Next.js, Node.js, Express, and Supabase.
+- **Open Source:** Developing lightweight tools and starter templates for the developer ecosystem.
+
+---
+
+### 🌐 Links & Contact
+
+- **Website:** [baranejder.com](https://baranejder.com)
+- **Company:** Zirve Kodlama
+- **Email:** ejderrx@gmail.com
+- **Location:** Istanbul, Türkiye
+
 
 
